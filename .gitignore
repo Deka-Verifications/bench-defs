@@ -1,1 +1,10 @@
 **/__pycache__
+
+bin/*
+!bin/README*
+
+results-validated/*
+!results-validated/README*
+
+results-verified/*
+!results-verified/README*
