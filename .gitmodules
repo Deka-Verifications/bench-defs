@@ -13,3 +13,6 @@
 [submodule "sv-witnesses"]
 	path = sv-witnesses
 	url = https://github.com/sosy-lab/sv-witnesses.git
+[submodule "archives"]
+	path = archives
+	url = git@github.com:Deka-Verifications/archives.git
