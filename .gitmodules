@@ -3,7 +3,7 @@
 	url = https://gitlab.com/sosy-lab/benchmarking/sv-benchmarks
 [submodule "benchexec"]
 	path = benchexec
-	url = https://gitlab.com/sosy-lab/software/benchexec
+	url = git@github.com:Deka-Verifications/benchexec.git
 [submodule "scripts"]
 	path = scripts
 	url = https://gitlab.com/sosy-lab/benchmarking/competition-scripts
