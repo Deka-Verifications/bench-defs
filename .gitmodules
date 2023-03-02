@@ -6,7 +6,7 @@
 	url = git@github.com:Deka-Verifications/benchexec.git
 [submodule "scripts"]
 	path = scripts
-	url = https://gitlab.com/sosy-lab/benchmarking/competition-scripts
+	url = git@github.com:Deka-Verifications/competition-scripts.git
 [submodule "coveriteam"]
 	path = coveriteam
 	url = https://gitlab.com/sosy-lab/software/coveriteam
